@@ -4,15 +4,15 @@
 OPS445 Assignment 1
 Program: assignment1.py 
 The python code in this file is original work written by
-"Student Name". No code in this file is copied from any other source
+"Vatanveer Singh". No code in this file is copied from any other source
 except those provided by the course instructor, including any person,
 textbook, or on-line resource. I have not shared this python script
 with anyone or anything except for submission for grading. I understand
 that the Academic Honesty Policy will be enforced and
 violators will be reported and appropriate action will be taken.
 
-Author: <Student Name>
-Semester: <Fall/Winter/Summer> <Year>
+Author: Vatanveer Singh
+Semester: <Fall <2024>
 Description: <fill this in>
 '''
 
